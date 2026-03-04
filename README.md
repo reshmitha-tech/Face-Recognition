@@ -26,3 +26,4 @@ The system detects and recognizes human faces from a live webcam feed with high 
 5. Displays the recognized name on screen.
 
 ## 📂 Project Structure
+--->"Run locally using Python"
